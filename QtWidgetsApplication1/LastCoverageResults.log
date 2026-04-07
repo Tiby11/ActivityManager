@@ -1,0 +1,21 @@
+[2025-05-27 18:06:17] [info] Start Program:
+Path:"C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe"
+Arguments:
+Working directory: "C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\QtWidgetsApplication1\"
+Modules: Selected: C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe Excluded: 
+Sources: Selected: C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\QtWidgetsApplication1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Tiby\AppData\Local\Temp\m44rc3ud.lh1 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2025-05-27 18:06:17] [info] Module: C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe is selected because it matches selected pattern: C:\Users\Tiby\OneDrive\Desktop\OOP\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe
+[2025-05-27 18:06:35] [info] ----------------------------------------------------
+[2025-05-27 18:06:35] [info] Coverage binary generated in file: C:\Users\Tiby\AppData\Local\Temp\m44rc3ud.lh1
+[2025-05-27 18:06:35] [info] ----------------------------------------------------
